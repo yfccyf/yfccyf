@@ -1,6 +1,6 @@
 ![](github_profile/profile2.png)
 
-### Hi there 👋
+### Hi there 👋 Welcome to Yifan's GitHub Profile
 
 <!--
 **yfccyf/yfccyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
