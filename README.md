@@ -1,4 +1,4 @@
-![](github_profile/profile2.png)
+![](github_profile/Yifan Cheng.png)
 
 ### Hi there 👋 Welcome to Yifan's GitHub Profile
 
