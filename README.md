@@ -1,4 +1,4 @@
-![](github_profile/Yifan Cheng.png)
+![](github_profile/2024_mle_banner.png)
 
 ### Hi there 👋 Welcome to Yifan's GitHub Profile
 
